@@ -1,8 +1,8 @@
 ## Test deg selv 1
 
-## 1) Variabler
-
 ## 1.1
+
+---
 
 Hva er feil eller dårlig med variabelnavnene under? Gi en kort forklaring og gi dem til bedre variabelnavn.
 
@@ -18,13 +18,15 @@ e) %AvTallet = 15
 
 f) SummenAvRegnestykketEr = 16
 
-## 2) Datatyper
-
 ## 2.1
+
+---
 
 Skriv et program som skriver "5 ganger 10 er 50" til konsoll ved å bruke variabler for tallene 5, 10 og 50.
 
 ## 2.2
+
+---
 
 Skriv et program som bruker variablene under (erstatt variabelnavnene med mer passende navn) til å skrive forslag til e-post adresser til konsoll.
 
@@ -38,42 +40,62 @@ Kriterier:
 
 - Epostadressen skal lagres i en egen variabel, og denne nye variabelen skal printes ut
 
-var1 = fornavn
+```Python
+fornavn = "Et fornavn her"
 
-var2 = etternavn
+etternavn = "Et etternavn her"
 
-var3 = domene
+domene = "Et domene her"
+```
 
 ## 2.3
 
-a) Hvorfor blir ikke regnestykket under regnet ut når print-setningen kjøres?
+---
 
-print("4 + 6")
+**Må løses med Python**
+Nora setter inn 34 000 kr på konto med fast rente til 3,4 % per år. Hun lar pengene stå urørt. Hvor mye har hun på kontoen etter 10 år.
 
-b) Skriv et program som lagrer tallet 42 i en variabel, og skriver "Svaret på alt er 42" til konsoll ved å bruke variabelen med tallet 42.
+## 2.4
 
-c) Hvorfor blir to forskjellige tall printet når koden under kjøres?
+---
 
-a = 3.4
-b = 20.5
+Et firma produserer 10 tonn plastavfall i året. De bestemmer seg for å redusere avfallsmengden med 10 % per år. Hvor lang tid tar det før avfallsmengden er halvert.
 
-total = a \* b
+# Utfordringer
 
-print(total)
-print(int(total))
+## 3.1 Spareavtale
 
-## 3) Sammensatte datatyper
+---
 
-## 3.1
+Jon Arild har starte en spareavtale i banken sin. Avtalen går ut på at han skal sette inn 1000 kr i måneden de neste 10 årene med en avtalefestet avkastning på 0.1 % i måneden.
 
-Skriv et program som lager romkoder i en kontorbygning ved å bruke informasjonen under. Romkoden er satt sammen slik: (etasjenummer)(romtype-forkortelse)(romnummer), for eksempel 03K03, som betyr etasje nr 3, K for Kontor og 03 for kontor nr 3.
+Hvor mye står det på kontoen til Jon Aril om 10 år?
 
-Mulige verdier i variablene:
+```Python
+#saldo = 0
+#innskudd = ....
+#rente = ....
+#vekstfaktor = ....
+#ant_mnd = .....
 
-Etg: 1-6
+for mnd in range(ant_mnd):
+    #saldo etter innskudd
+    #saldo etter renteinntekt
+    #Skriv ut saldoen
 
-Romtype: Kontor, møterom, lager, samtalerom
+#Skriv ut endelig saldo der du svarer på spørsmålet over
+```
 
-Romnummer: 1-25
+## 3.2 Forbrukslån (vanskelig)
 
-Skriv ut tre eksempler på romnummer, kalt rom1, rom2 og rom3 ved å lage tre variabler som har verdier fra listen over.
+---
+
+<img src="img/jacuzzi.png" width="100px" style="float:right; margin-left:20px">
+
+John steinar har kjøpt seg en jacuzzi til 46 890,00 kr på avbetaling de neste 10 årene.
+
+- Avdrag i starten av hvert år: 2028,42 kr.
+- Årlig rente: 15 %
+- Periode: 10 år.
+
+Hva blir totalprisen på jacuzzien til John Steinar?
