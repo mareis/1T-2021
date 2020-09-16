@@ -4,24 +4,6 @@
 
 ---
 
-Hva er feil eller dårlig med variabelnavnene under? Gi en kort forklaring og gi dem til bedre variabelnavn.
-
-a) Et tall = 123
-
-b) 3variabelen = 3
-
-c) Variabel1 = "teksten skal hit"
-
-d) detførstetallet = "1"
-
-e) %AvTallet = 15
-
-f) SummenAvRegnestykketEr = 16
-
-## 2.1
-
----
-
 Skriv et program som skriver "5 ganger 10 er 50" til konsoll ved å bruke variabler for tallene 5, 10 og 50.
 
 ## 2.2
@@ -48,7 +30,7 @@ etternavn = "Et etternavn her"
 domene = "Et domene her"
 ```
 
-## 2.3
+## 2.3 Rentes rente
 
 ---
 
@@ -56,7 +38,7 @@ domene = "Et domene her"
 
 Nora setter inn 34 000 kr på konto med fast rente til 3,4 % per år. Hun lar pengene stå urørt. Hvor mye har hun på kontoen etter 10 år.
 
-## 2.4
+## 2.4 Halvering
 
 ---
 
@@ -65,6 +47,8 @@ Nora setter inn 34 000 kr på konto med fast rente til 3,4 % per år. Hun lar pe
 Et firma produserer 10 tonn plastavfall i året. De bestemmer seg for å redusere avfallsmengden med 10 % per år. Hvor lang tid tar det før avfallsmengden er halvert.
 
 ---
+
+<br>
 
 **Utfordringer**
 
@@ -91,13 +75,15 @@ for mnd in range(ant_mnd):
 #Skriv ut endelig saldo der du svarer på spørsmålet over
 ```
 
-## 3.2
+## 3.2 Brøk
 
 ---
 
 <img src="img/egypt.png" width="80%">
 
 ## <img src="img/egypt_oppgaver.png" width="80%">
+
+<br>
 
 ## 4.1 Frivillig (vanskelig)
 
