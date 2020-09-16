@@ -52,16 +52,21 @@ domene = "Et domene her"
 
 ---
 
-**Må løses med Python**
+**Python**
+
 Nora setter inn 34 000 kr på konto med fast rente til 3,4 % per år. Hun lar pengene stå urørt. Hvor mye har hun på kontoen etter 10 år.
 
 ## 2.4
 
 ---
 
+**CAS**
+
 Et firma produserer 10 tonn plastavfall i året. De bestemmer seg for å redusere avfallsmengden med 10 % per år. Hvor lang tid tar det før avfallsmengden er halvert.
 
-# Utfordringer
+---
+
+**Utfordringer**
 
 ## 3.1 Spareavtale
 
