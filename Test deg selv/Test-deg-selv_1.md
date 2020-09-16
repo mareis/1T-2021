@@ -91,7 +91,15 @@ for mnd in range(ant_mnd):
 #Skriv ut endelig saldo der du svarer på spørsmålet over
 ```
 
-## 3.2 Forbrukslån (vanskelig)
+## 3.2
+
+---
+
+<img src="img/egypt.png" width="80%">
+
+## <img src="img/egypt_oppgaver.png" width="80%">
+
+## 4.1 Frivillig (vanskelig)
 
 ---
 
