@@ -79,9 +79,9 @@ for mnd in range(ant_mnd):
 
 ---
 
-<img src="img/egypt.png" width="80%">
+<img src="img/egypt.png" width="400px">
 
-## <img src="img/egypt_oppgaver.png" width="80%">
+<img src="img/egypt_oppgaver.png" width="400px">
 
 <br>
 
