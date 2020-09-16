@@ -61,18 +61,18 @@ Jon Arild har starte en spareavtale i banken sin. Avtalen går ut på at han ska
 Hvor mye står det på kontoen til Jon Aril om 10 år?
 
 ```Python
-#saldo = 0
-#innskudd = ....
-#rente = ....
-#vekstfaktor = ....
-#ant_mnd = .....
+# saldo = 0
+# innskudd = ....
+# rente = ....
+# vekstfaktor = ....
+# ant_mnd = .....
 
 for mnd in range(ant_mnd):
-    #saldo etter innskudd
-    #saldo etter renteinntekt
-    #Skriv ut saldoen
+    # saldo etter innskudd
+    # saldo etter renteinntekt
+    # Skriv ut saldoen
 
-#Skriv ut endelig saldo der du svarer på spørsmålet over
+# Skriv ut endelig saldo der du svarer på spørsmålet over
 ```
 
 ## 3.2 Brøk
