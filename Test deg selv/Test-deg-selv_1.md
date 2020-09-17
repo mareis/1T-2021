@@ -14,9 +14,9 @@ Skriv et program som bruker variablene under (erstatt variabelnavnene med mer pa
 
 Kriterier:
 
-- Epostadressene skal bestå av fornavn og etternavn, separert med punktum, etterfulgt av @ og et valgfritt domene, for eksempel "test.testesen@bedrift.no".
+- Epostadressen skal bestå av fornavn og etternavn, separert med punktum, etterfulgt av @ og et valgfritt domene, for eksempel "test.testesen@bedrift.no".
 
-- Epostadressene som skrives ut skal være uten mellomrom.
+- Epostadressen som skrives ut skal være uten mellomrom.
 
 - Variabelen som inneholder "domene" skal ikke inneholde "@".
 
