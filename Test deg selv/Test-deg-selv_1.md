@@ -4,7 +4,7 @@
 
 ---
 
-Skriv et program som skriver "5 ganger 10 er 50" til konsoll ved å bruke variabler for tallene 5, 10 og 50.
+Skriv et program som skriver "5 ganger 10 er 50" til konsoll ved å bruke variabler for tallene 5 og 10 og produktet.
 
 ## 2.2
 
