@@ -36,13 +36,13 @@ domene = "Et domene her"
 
 **Python**
 
-Nora setter inn 34 000 kr på konto med fast rente til 3,4 % per år. Hun lar pengene stå urørt. Hvor mye har hun på kontoen etter 10 år.
+Nora setter inn 34 000 kr på konto med fast rente til 3,4 % per år. Hun lar pengene stå urørt. Hvor mye har hun på kontoen etter 10 år. Skriv ut svaret med to desimaler.
 
 ## 2.4 Halvering
 
 ---
 
-**CAS**
+**GeoGebra**
 
 Et firma produserer 10 tonn plastavfall i året. De bestemmer seg for å redusere avfallsmengden med 10 % per år. Hvor lang tid tar det før avfallsmengden er halvert.
 
@@ -58,7 +58,7 @@ Et firma produserer 10 tonn plastavfall i året. De bestemmer seg for å reduser
 
 Jon Arild har starte en spareavtale i banken sin. Avtalen går ut på at han skal sette inn 1000 kr i måneden de neste 10 årene med en avtalefestet avkastning på 0.1 % i måneden.
 
-Hvor mye står det på kontoen til Jon Aril om 10 år?
+Hvor mye står det på kontoen til Jon Aril om 10 år? Skriv ut svaret med to desimaler.
 
 ```Python
 # saldo = 0
@@ -70,7 +70,7 @@ Hvor mye står det på kontoen til Jon Aril om 10 år?
 for mnd in range(ant_mnd):
     # saldo etter innskudd
     # saldo etter renteinntekt
-    # Skriv ut saldoen
+    # skriv ut saldoen
 
 # Skriv ut endelig saldo der du svarer på spørsmålet over
 ```
@@ -84,17 +84,20 @@ for mnd in range(ant_mnd):
 <img src="img/egypt_oppgaver.png" width="400px">
 
 <br>
+<br>
 
-## 4.1 Frivillig (vanskelig)
+## 4.1 Fibonacci
 
 ---
 
-<img src="img/jacuzzi.png" width="100px" style="float:right; margin-left:20px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Fibonacci.jpg" width="100px" style="float:right">
+Fibonacci (ca. 1170–ca. 1250) var ein italiensk matematikar frå Pisa i Nord-Italia. Han er mest kjend for talfølgen som er oppkallt etter han, Fibonacci-tallene.
+<br><br>
+Fibonacci-tallene er tallfølgen <br>
+1, 1, 2, 3, 5, 8, 13, 21, 34, ...
+<br><br>
 
-John steinar har kjøpt seg en jacuzzi til 46 890,00 kr på avbetaling de neste 10 årene.
-
-- Avdrag i starten av hvert år: 2028,42 kr.
-- Årlig rente: 15 %
-- Periode: 10 år.
-
-Hva blir totalprisen på jacuzzien til John Steinar?
+<ol type="a">
+    <li>Skriv opp de neste tre tallene i Fibonacci-følgen.<br><br>
+    <li>Lag et program i Python som skriver ut de første 100 tallene i Fibonacci-følgen.</li>
+</ol>
