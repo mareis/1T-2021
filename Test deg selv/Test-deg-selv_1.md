@@ -60,29 +60,12 @@ Et firma produserer 10 tonn plastavfall i året. De bestemmer seg for å reduser
 
 <img src="img/egypt.png" width="400px">
 
-<img src="img/egypt_oppgaver.png" width="400px">
+<img src="img/egypt_oppgaver.png" width="300px">
 
 <br>
 <br>
 
-## 3.2 Fibonacci
-
----
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Fibonacci.jpg" width="100px" style="float:right">
-Fibonacci (ca. 1170–ca. 1250) var ein italiensk matematikar frå Pisa i Nord-Italia. Han er mest kjend for talfølgen som er oppkallt etter han, Fibonacci-tallene.
-<br><br>
-Fibonacci-tallene er tallfølgen <br>
-1, 1, 2, 3, 5, 8, 13, 21, 34, ...
-<br><br>
-
-<ol type="a">
-    <li>Skriv opp de neste tre tallene i Fibonacci-følgen.<br><br>
-    <li>Lag et program i Python som skriver ut de første 100 tallene i Fibonacci-følgen.</li>
-</ol>
-<br>
-
-## 3.3 Spareavtale
+## 3.2 Spareavtale
 
 ---
 
@@ -104,3 +87,20 @@ for mnd in range(ant_mnd):
 
 # Skriv ut endelig saldo der du svarer på spørsmålet over
 ```
+
+## 3.3 Fibonacci
+
+---
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Fibonacci.jpg" width="100px" style="float:right">
+Fibonacci (ca. 1170–ca. 1250) var ein italiensk matematikar frå Pisa i Nord-Italia. Han er mest kjend for talfølgen som er oppkallt etter han, Fibonacci-tallene.
+<br><br>
+Fibonacci-tallene er tallfølgen <br>
+1, 1, 2, 3, 5, 8, 13, 21, 34, ...
+<br><br>
+
+<ol type="a">
+    <li>Skriv opp de neste tre tallene i Fibonacci-følgen.<br><br>
+    <li>Lag et program i Python som skriver ut de første 100 tallene i Fibonacci-følgen.</li>
+</ol>
+<br>
