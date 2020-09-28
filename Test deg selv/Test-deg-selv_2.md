@@ -100,6 +100,8 @@ print(sum)
 
 **b.** Lag et program som skriver ut de 10 første tallene.
 
+**c.** Bestem summen av de 10 første tallene.
+
 <br>
 
 ## 2.3 Trekanttallene
