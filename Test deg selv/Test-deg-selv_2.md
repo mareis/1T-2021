@@ -52,7 +52,7 @@ for n in range(1, 100):
         print(n)
 ```
 
-## 1.1
+## 1.2
 
 ---
 
@@ -61,7 +61,7 @@ Forklar programmene nedenfor
 ```Python
 sum = 0
 
-for n in range(50):
+for n in range(6):
     partall = 2*n
     sum = sum + partall
 
@@ -73,7 +73,7 @@ print(sum)
 ```Python
 sum = 0
 
-for n in range(50):
+for n in range(5):
     oddetall = 2*n + 1
     sum = sum + oddetall
 
