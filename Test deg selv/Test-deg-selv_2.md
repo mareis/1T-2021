@@ -56,13 +56,9 @@ for n in range(1, 100):
 
 ---
 
-a.
+**a.** Lag et program som skriver ut partallene mellom 1000 og 12000
 
-Lag et program som skriver ut partallene mellom 1000 og 12000
-
-b.
-
-Lag et program som skriver ut oddetallene mellom 500 og 750
+**b.** Lag et program som skriver ut oddetallene mellom 500 og 750
 
 ## 2.2 Figurtall
 
@@ -70,23 +66,19 @@ Lag et program som skriver ut oddetallene mellom 500 og 750
 
 <img src="img/ntallene.png">
 
+**a.** Skriv opp de 5 første tallene
+
+**b.** Lag et program som skriver ut de 10 første tallene.
+
 ## 2.3 Trekanttallene
 
 ---
 
 <img src="img/trekanttallene.gif">
 
-## 2.4
+**a.** Skriv opp de 5 første tallene
 
----
-
-<img src="img/pyramidetallene.png">
-
-## 2.5 Kvadrattallene
-
----
-
-<img src="img/kvadrattallene.png">
+**b.** Lag et program som skriver ut de 10 første tallene.
 
 ## 3.1 Kvadratrottilnærming
 
@@ -96,23 +88,37 @@ Lag et program som skriver ut oddetallene mellom 500 og 750
 
 Heron fra Alexandria er en kjent matematiker fra antikken. Han laget blant annet en algoritme for å finne tilnærmingsverdier for kvadratroten av et naturlig tall, n:
 
-- Velg et tall i nærheten av det du tror svaret blir
+- Velg et tall, a, i nærheten av det du tror svaret blir
 - Regn ut tallet
 
     <img src="img/heos.png" width=80px>
 
-- Gjenta punkt 2 til du får et tall som er så nøyaktig som du ønsker
+- Gjenta punkt 2 til du får et tall som er så nøyaktig som du ønsker. b blir den nye a-en.
 
-Pruk en for-løkke til å utføre algorithmen i Python for tallene 4, 16, 17, 483 og 837353123.
+**a.** Sett a = 1 og n = 4, og utfør algoritmen 3 ganger for hånd.
+
+**b.** Bruk en for-løkke til å utføre algorithmen i Python for tallene 483.
 
 Prøv med range(5), range(10), range(15), range(20), range(100)
 
+Skriv ut svaret med 3 desimaler og sammenlign svaret med utregning i GeoGebra - sqrt(483)
+
 <br>
 
-## 3.2
+## 4.1 Betingelser
 
 ---
 
-## 3.3
+# Ekstraoppgaver
+
+## 5.1
 
 ---
+
+<img src="img/pyramidetallene.png">
+
+## 5.2 Kvadrattallene
+
+---
+
+<img src="img/kvadrattallene.png">
