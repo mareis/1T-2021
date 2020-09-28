@@ -80,6 +80,8 @@ for n in range(1, 100):
 
 **b.** Lag et program som skriver ut de 10 første tallene.
 
+**Algoritmer**
+
 ## 3.1 Kvadratrottilnærming
 
 ---
@@ -105,20 +107,47 @@ Skriv ut svaret med 3 desimaler og sammenlign svaret med utregning i GeoGebra - 
 
 <br>
 
-## 4.1 Betingelser
+## 3.2 Tilnærming av π
 
----
+Den matematiske konstanten pi (π) er eit irrasjonalt tal definert som omkrinsen til ein sirkel dividert med diameteren til sirkelen.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Pi-unrolled-720.gif/440px-Pi-unrolled-720.gif">
+
+3,14159265358979323846264338327950288419716939937510
+
+Du skal i denne oppgaven bestemme en tilnærmet verdi av π.
+
+Vi skal ta utgangspunkt i Gottfried Leibniz sin metode for å finne 1/4 av omkretsen til en sirkel med radius lik 1, altså π/4.
+
+<img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fab3e3e4febf987b57159d81fd47995fb0af1240">
 
 # Ekstraoppgaver
 
-## 5.1
+## 4.1
 
 ---
 
 <img src="img/pyramidetallene.png">
+**a.** Skriv opp de 5 første tallene
 
-## 5.2 Kvadrattallene
+**b.** Lag et program som skriver ut de 10 første tallene.
+
+## 4.2 Kvadrattallene
 
 ---
 
 <img src="img/kvadrattallene.png">
+
+**a.** Skriv opp de 5 første tallene
+
+**b.** Lag et program som skriver ut de 10 første tallene.
+
+**c.** Sammenlign resultatene fra 4.1. Hvorfor blir det slik?
+
+## 4.3
+
+---
+
+<img src="img/rakettallene.png">
+**a.** Skriv opp de 5 første tallene
+
+**b.** Lag et program som skriver ut de 10 første tallene.
