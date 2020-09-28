@@ -144,6 +144,7 @@ Skriv ut svaret med 3 desimaler og sammenlign svaret med utregning i GeoGebra - 
 ## 3.2 Tilnærming av π
 
 Den matematiske konstanten pi (π) er eit irrasjonalt tal definert som omkrinsen til ein sirkel dividert med diameteren til sirkelen.
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Pi-unrolled-720.gif/440px-Pi-unrolled-720.gif">
 
 Du skal i denne oppgaven bestemme en tilnærmet verdi av π.
