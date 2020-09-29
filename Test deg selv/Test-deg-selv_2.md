@@ -133,13 +133,19 @@ Heron fra Alexandria er en kjent matematiker fra antikken. Han laget blant annet
 
 - Gjenta punkt 2 til du får et tall som er så nøyaktig som du ønsker. b blir den nye a-en.
 
-**a.** Sett a = 1 og n = 4, og utfør algoritmen 3 ganger for hånd.
+**a.** Sett a = 1 og n = 4, og utfør algoritmen 3 ganger for hånd. Hva ble svaret?
 
-**b.** Bruk en for-løkke til å utføre algorithmen i Python for tallene 483.
+**b.** Bruk en for-løkke til å utføre algorithmen i Python for tallet a = 1 og n = 3. Hva er færest antall <a href="https://no.wikipedia.org/wiki/Iterasjon">iterasjoner</a> som trengs og å få en nøyaktighet på 15 desimaler.
 
-Prøv med range(5), range(10), range(15), range(20), range(100)
+Skriv ut svaret og sammenlign med
 
-Skriv ut svaret med 3 desimaler og sammenlign svaret med utregning i GeoGebra - sqrt(483)
+```python
+import math
+print(math.sqrt(n))
+```
+
+**c.**
+Gjør det samme som i **b**, men med a = 1 og n = 3333333. Hvor mange <a href="https://no.wikipedia.org/wiki/Iterasjon">iterasjoner</a> trengs nå?
 
 <br>
 
@@ -163,30 +169,24 @@ Bruk egenskapen til <img src="img/minus.png" width="30px"> og lag et program som
 
 Dette kan du nå bruke som tellerene i brøkleddene.
 
-**b.** Utvid programmet til også å skrive ut nevnerne fra samme for-løkke som **a.**:
+**b.** Utvid programmet til også å skrive ut nevnerne fra samme for-løkke som **a**:
 
 1, 3, 5, 7, 9, 11, 13, 15, 17, 19
 
-Hint: 1.1 **b.**
+Hint: 1.1 **b**
 
 **c.** Sett sammen teller og nevner og skriv ut 1, 0.333, 0.2, ...
 
-**d.** Deklarer en variabel, sum, over for-løkka som du tilorner verdien 0.
-
-```python
-sum = 0
-for n in range(10):
-    teller = ...
-    nevner = ...
-    sum = sum + teller/nevner
-
-print(sum*4)
-```
+**d.** Regn ut summen til tallene i **c** og gang resultatet med 4. Hint: 1.2 **b**.
 
 Sammenlign resultatet med
-3,14159265358979323846264338327950288419716939937510
 
-Øk range til 100, 1000, osv. Hvor mange desimaler klarer du å tilnærme?
+```python
+import math
+print(math.pi)
+```
+
+Øk range til 10 ** 3, 10 ** 4, osv. Hvor mange desimaler klarer du å tilnærme?
 
 <br>
 
