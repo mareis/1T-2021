@@ -226,6 +226,13 @@ print(math.pi)
 
 <br><br>
 
+## 3.6 Det gylne snitt
+
+---
+
+<img src="img/det_gylne_snitt.png" width="400px">
+<br><br>
+
 # Ekstraoppgaver
 
 ## 4.1 Stabel

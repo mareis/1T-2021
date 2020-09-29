@@ -1,13 +1,16 @@
-saldo = 46890
-avdrag = 2028.42
-rente = 0.15
-ant_år = 10
+lån = 125000                # Forbrukslån (kr)
+terminbeløp = 20000         # Årlige terminbeløp (kr)
+rente = 0.15                # Renter på lånet
 renteutgift = 0
+år = 0
 
-for år in range(ant_år):
-    saldo = saldo - avdrag
-    renter = saldo*rente
+while lån > 0:
+    renter = lån*rente
     renteutgift += renter
-    saldo = saldo - renter
+    avdrag = terminbeløp-renter
+    lån = lån - avdrag
+    år = år + 1
 
-    print(renteutgift, saldo)
+print(år)
+print(lån)
+print(renteutgift)
