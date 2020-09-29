@@ -4,7 +4,11 @@
 
 ---
 
-Forklar programmene nedenfor
+Forklar programmene nedenfor.
+
+Du kan skrive inn koden i Mu og bruke
+
+<img src="img/debug.png" width="50px"> og <img src="img/step_in.png" width="50px">
 
 **a.**
 
@@ -88,6 +92,7 @@ print(sum)
 
 **b.** Lag et program som skriver ut oddetallene mellom 500 og 750
 
+NB: Bare lever koden, ikke resultetet :)
 <br>
 
 ## 2.2 Figurtall
@@ -96,7 +101,7 @@ print(sum)
 
 <img src="img/ntallene.png">
 
-**a.** Skriv opp de 5 første tallene
+**a.** Skriv opp de 5 første .tallene
 
 **b.** Lag et program som skriver ut de 10 første tallene.
 
@@ -110,7 +115,7 @@ print(sum)
 
 <img src="img/trekanttallene.gif">
 
-**a.** Skriv opp de 5 første tallene
+**a.** Skriv opp de 5 første tallene.
 
 **b.** Lag et program som skriver ut de 10 første tallene.
 
@@ -145,11 +150,19 @@ print(math.sqrt(n))
 ```
 
 **c.**
-Gjør det samme som i **b**, men med a = 1 og n = 3333333. Hvor mange <a href="https://no.wikipedia.org/wiki/Iterasjon">iterasjoner</a> trengs nå?
+Gjør det samme som i **b**, men med a = 1 og n = 3333333. Hvor mange <a href="https://no.wikipedia.org/wiki/Iterasjon">iterasjoner</a> trengs for å oppnå 15 desimaler nøyaktighet nå?
 
 <br>
 
-## 3.2 Tilnærming av π
+## 3.2 Steinheller
+
+---
+
+<img src="img/heller.png">
+
+## 3.3 Tilnærming av π
+
+---
 
 Den matematiske konstanten pi (π) er eit irrasjonalt tal definert som omkrinsen til ein sirkel dividert med diameteren til sirkelen.
 
@@ -192,16 +205,17 @@ print(math.pi)
 
 # Ekstraoppgaver
 
-## 4.1
+## 4.1 Stabel
 
 ---
 
 <img src="img/pyramidetallene.png">
 
-**a.** Skriv opp de 5 første tallene
+**a.** Skriv opp de 5 første tallene.
 
 **b.** Lag et program som skriver ut de 10 første tallene.
 
+**c.** Bestem summen av de 10 første tallene.
 <br>
 
 ## 4.2 Kvadrattallene
@@ -214,11 +228,13 @@ print(math.pi)
 
 **b.** Lag et program som skriver ut de 10 første tallene.
 
-**c.** Sammenlign resultatene fra 4.1. Hvorfor blir det slik?
+**c.** Bestem summen av de 10 første tallene.
+
+**d.** Sammenlign resultatene fra 4.1. Hvorfor blir det slik?
 
 <br>
 
-## 4.3
+## 4.3 En kombinasjon
 
 ---
 
@@ -227,3 +243,5 @@ print(math.pi)
 **a.** Skriv opp de 5 første tallene
 
 **b.** Lag et program som skriver ut de 10 første tallene.
+
+**c.** Bestem summen av de 10 første tallene.
