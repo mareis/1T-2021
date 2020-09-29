@@ -84,7 +84,15 @@ for n in range(5):
 print(sum)
 ```
 
-## 2.1
+## 2.1 Fliser
+
+---
+
+<img src="img/fliser.png">
+
+<br>
+
+## 2.2 Løkker
 
 ---
 
@@ -95,7 +103,7 @@ print(sum)
 NB: Bare lever koden, ikke resultetet :)
 <br>
 
-## 2.2 Figurtall
+## 2.3 Figurtall
 
 ---
 
@@ -109,11 +117,13 @@ NB: Bare lever koden, ikke resultetet :)
 
 <br>
 
-## 2.3 Trekanttallene
+## 2.4 Trekanttallene
 
 ---
 
 <img src="img/trekanttallene.gif">
+
+<br><br>
 
 **a.** Skriv opp de 5 første tallene.
 
@@ -123,7 +133,15 @@ NB: Bare lever koden, ikke resultetet :)
 
 <br>
 
-## 3.1 Kvadratrottilnærming
+## 3.1 Gjerde
+
+---
+
+<img src="img/gjerde.png">
+
+<br><br>
+
+## 3.2 Kvadratrottilnærming
 
 ---
 
@@ -154,13 +172,15 @@ Gjør det samme som i **b**, men med a = 1 og n = 3333333. Hvor mange <a href="h
 
 <br>
 
-## 3.2 Steinheller
+## 3.3 Steinheller
 
 ---
 
 <img src="img/heller.png">
 
-## 3.3 Tilnærming av π
+<br><br>
+
+## 3.4 Tilnærming av π
 
 ---
 
@@ -201,7 +221,7 @@ print(math.pi)
 
 Øk range til 10 ** 3, 10 ** 4, osv. Hvor mange desimaler klarer du å tilnærme?
 
-<br>
+<br><br>
 
 # Ekstraoppgaver
 
