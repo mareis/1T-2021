@@ -62,6 +62,10 @@ for n in range(1, 100):
 
 Forklar programmene nedenfor
 
+Du kan skrive inn koden i Mu og bruke
+
+<img src="img/debug.png" width="50px"> og <img src="img/step_in.png" width="50px">
+
 ```Python
 sum = 0
 
