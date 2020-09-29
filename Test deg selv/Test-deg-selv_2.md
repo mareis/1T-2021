@@ -88,7 +88,7 @@ print(sum)
 
 ---
 
-<img src="img/fliser.png">
+<img src="img/fliser.png" width="350px">
 
 <br>
 
@@ -137,7 +137,7 @@ NB: Bare lever koden, ikke resultetet :)
 
 ---
 
-<img src="img/gjerde.png">
+<img src="img/gjerde.png" width="350px">
 
 <br><br>
 
@@ -152,7 +152,7 @@ Heron fra Alexandria er en kjent matematiker fra antikken. Han laget blant annet
 - Velg et tall, a, i nærheten av det du tror svaret blir
 - Regn ut tallet
 
-    <img src="img/heos.png" width=80px>
+    <img src="img/heron.png" width=80px>
 
 - Gjenta punkt 2 til du får et tall som er så nøyaktig som du ønsker. b blir den nye a-en.
 
@@ -176,7 +176,7 @@ Gjør det samme som i **b**, men med a = 1 og n = 3333333. Hvor mange <a href="h
 
 ---
 
-<img src="img/heller.png">
+<img src="img/heller.png" width="350px">
 
 <br><br>
 
