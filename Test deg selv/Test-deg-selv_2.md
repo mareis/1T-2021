@@ -88,7 +88,7 @@ print(sum)
 
 ---
 
-<img src="img/fliser.png" width="350px">
+<img src="img/fliser.png" width="400px">
 
 <br>
 
@@ -137,7 +137,7 @@ NB: Bare lever koden, ikke resultetet :)
 
 ---
 
-<img src="img/gjerde.png" width="350px">
+<img src="img/gjerde.png" width="400px">
 
 <br><br>
 
@@ -176,7 +176,7 @@ Gjør det samme som i **b**, men med a = 1 og n = 3333333. Hvor mange <a href="h
 
 ---
 
-<img src="img/heller.png" width="350px">
+<img src="img/heller.png" width="400px">
 
 <br><br>
 
