@@ -88,13 +88,14 @@ for n in range(5):
 print(sum)
 ```
 
+<br>
+
 ## 2.1 Fliser
 
 ---
 
 <img src="img/fliser.png" width="400px">
-
-<br>
+<br><br>
 
 ## 2.2 Løkker
 
@@ -105,7 +106,7 @@ print(sum)
 **b.** Lag et program som skriver ut oddetallene mellom 500 og 750
 
 NB: Bare lever koden, ikke resultetet :)
-<br>
+<br><br>
 
 ## 2.3 Figurtall
 
@@ -142,7 +143,6 @@ NB: Bare lever koden, ikke resultetet :)
 ---
 
 <img src="img/gjerde.png" width="400px">
-
 <br><br>
 
 ## 3.2 Kvadratrottilnærming
@@ -181,7 +181,6 @@ Gjør det samme som i **b**, men med a = 1 og n = 3333333. Hvor mange <a href="h
 ---
 
 <img src="img/heller.png" width="400px">
-
 <br><br>
 
 ## 3.4 Tilnærming av π
