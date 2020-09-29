@@ -167,8 +167,8 @@ Heron fra Alexandria er en kjent matematiker fra antikken. Han laget blant annet
 Skriv ut svaret og sammenlign med
 
 ```python
-import math
-print(math.sqrt(n))
+from math import sqrt
+print(sqrt(n))
 ```
 
 **c.**
@@ -218,8 +218,8 @@ Hint: 1.1 **b**
 Sammenlign resultatet med
 
 ```python
-import math
-print(math.pi)
+from math import pi
+print(pi)
 ```
 
 Øk range til 10 ** 3, 10 ** 4, osv. Hvor mange desimaler klarer du å tilnærme?
