@@ -223,14 +223,6 @@ print(pi)
 ```
 
 Øk range til 10 ** 3, 10 ** 4, osv. Hvor mange desimaler klarer du å tilnærme?
-
-<br><br>
-
-## 3.6 Det gylne snitt
-
----
-
-<img src="img/det_gylne_snitt.png" width="400px">
 <br><br>
 
 # Ekstraoppgaver

@@ -6,9 +6,9 @@ print(f'  2: {b}')
 
 for i in range(3, 101):
     c = a + b
-    print(f'{i:3}: {c}')
+    #print(f'{i:3}: {c}')
     a = b
     b = c
-
+    print(b/a)
 
 
