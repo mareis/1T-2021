@@ -8,7 +8,6 @@ for i in range(3, 101):
     c = a + b
     #print(f'{i:3}: {c}')
     a = b
-    b = c
+    b = cme
     print(b/a)
-
 
