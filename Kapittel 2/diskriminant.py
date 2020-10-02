@@ -20,5 +20,3 @@ elif D == 0:
 # Ellers hvis D > 0 så har vi to løsning.
 elif D > 0:
     print("Likningen har to løsninger.")
-
-

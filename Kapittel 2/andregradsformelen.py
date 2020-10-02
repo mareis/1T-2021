@@ -24,5 +24,3 @@ elif D > 0:
     x_1 = (-b - sqrt(D))/(2*a)
     x_2 = (-b + sqrt(D))/(2*a)
     print(f"Likningen har to løsninger: x_1 = {x_1} eller x_2 = {x_2}")
-
-
