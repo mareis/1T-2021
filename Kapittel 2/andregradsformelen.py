@@ -8,7 +8,7 @@ a = 1
 b = 4
 c = 3
 
-D = b**2 - 4*a*c #Diskriminanten
+D = b**2 - 4*a*c # Diskriminanten
 
 # Ingen løsning:
 if D < 0:
