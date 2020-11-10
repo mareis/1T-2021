@@ -1,0 +1,19 @@
+[LabApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[LabApp | INFO] Loading the validate_assignment nbgrader serverextension
+[LabApp | WARNING] JupyterLab server extension not enabled, manually loading...
+[LabApp | INFO] JupyterLab extension loaded from /Users/madsor/anaconda3/lib/python3.6/site-packages/jupyterlab
+[LabApp | INFO] JupyterLab application directory is /Users/madsor/anaconda3/share/jupyter/lab
+[LabApp | INFO] Serving notebooks from local directory: /Users/madsor/OneDrive - Møre og Romsdal Fylkeskommune/00_MoldeVGS/ProgX/ProgX-1819/01_Undervisningsnotater/3.-Grunnleggende-programmering
+[LabApp | INFO] The Jupyter Notebook is running at:
+[LabApp | INFO] http://localhost:8892/?token=16ec3158a89f0cb479b30cdeeb5337f60d6b6c7942819d0e
+[LabApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[LabApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8892/?token=16ec3158a89f0cb479b30cdeeb5337f60d6b6c7942819d0e
+[LabApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[LabApp | WARNING] Could not determine jupyterlab build status without nodejs
+[LabApp | INFO] interrupted
+[LabApp | CRITICAL] Shutdown confirmed
+[LabApp | INFO] Shutting down 0 kernels
